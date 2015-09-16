@@ -54,4 +54,4 @@ configuration information to the application.
 12.Using bean id, name value of property is accessed in provided class.
 
 13.Finally run the program as Java Application. The result will be displayed on console that is 
-"Hello world from Mahesh Dhamgunde".
+"Hello world from Alice".
